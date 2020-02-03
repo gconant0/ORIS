@@ -1,7 +1,7 @@
 # ORthology Inference using Synteny (ORIS) Pipeline
 
-## Workflow:
+## Workflow
 
 ## Step 1: 
 
-Download [GenomeHistory2.0](http://conantlab.org/GenomeHistory/GenomeHistory.html)
+Download [GenomeHistory 2.0](http://conantlab.org/GenomeHistory/GenomeHistory.html)
