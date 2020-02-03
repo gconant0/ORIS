@@ -1,1 +1,1 @@
-#ORIS
+# ORthology Inference using Synteny (ORIS)
