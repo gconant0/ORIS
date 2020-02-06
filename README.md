@@ -12,6 +12,6 @@
 - Will need gff files for each genome.
 
 ## Step 3: Orthology inference
-- Download map_orthology.tar
-```tar xvf map_orthology.tar```
-```make```
+- Download map_orthology.tar<br>
+```tar xvf map_orthology.tar```<br>
+```make```<br>
