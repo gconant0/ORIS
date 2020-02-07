@@ -9,7 +9,7 @@
 ```grep ">" genome1.DNA.fa |egrep -o '^>(\w|\d|\.){1,20}' |egrep -o '(\w|\d|\.){1,20}' >genome1_genelist.txt```<br>
 - Run GenomeHistory three times: genome 1 against itself, genome 2 against itself, and genome 1 versus genome 2.
 
-## Step 2: 
+## Step 2: Prepare input files
 - Run make_orthology_inf_files.pl
 - Will need gff files for each genome.
 
